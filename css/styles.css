@@ -1034,7 +1034,33 @@ bottom: 250px;
   }
 }
 
-@media (min-width: 410px) and (max-width: 480px) {
+
+@media (min-width: 410px) and (max-width: 420px) {
+
+
+
+
+  .fa-sun {
+    position: absolute;
+    right: 210px;
+    bottom: 827px;
+    padding: 14px;
+    background-color: var(--primary-color);
+    font-size: 1.5rem;
+    color: #fff;
+    border-radius: 5px;
+    cursor: pointer;
+    height: 10px;
+    width: 13px;
+    font-size: 14px;
+  
+  
+  }
+}
+
+
+
+@media (min-width: 430px) and (max-width: 480px) {
 
 
 
@@ -1042,7 +1068,7 @@ bottom: 250px;
   .fa-sun {
     position: absolute;
     right: 280px;
-    bottom: 1345px;
+    bottom: 945px;
     padding: 14px;
     background-color: var(--primary-color);
     font-size: 1.5rem;
