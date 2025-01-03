@@ -1009,3 +1009,51 @@ bottom: 250px;
     margin-right: 0 !important;
   }
 }
+
+/* Adicione no seu arquivo CSS */
+@media ( max-width: 400px) {
+
+
+
+
+  .fa-sun {
+    position: absolute;
+    right: 195px;
+    bottom: 770px;
+    padding: 14px;
+    background-color: var(--primary-color);
+    font-size: 1.5rem;
+    color: #fff;
+    border-radius: 5px;
+    cursor: pointer;
+    height: 10px;
+    width: 13px;
+    font-size: 14px;
+  
+  
+  }
+}
+
+@media (min-width: 410px) and (max-width: 480px) {
+
+
+
+
+  .fa-sun {
+    position: absolute;
+    right: 280px;
+    bottom: 945px;
+    padding: 14px;
+    background-color: var(--primary-color);
+    font-size: 1.5rem;
+    color: #fff;
+    border-radius: 5px;
+    cursor: pointer;
+    height: 10px;
+    width: 13px;
+    font-size: 14px;
+  
+  
+  }
+}
+
