@@ -1011,7 +1011,7 @@ bottom: 250px;
 }
 
 /* Adicione no seu arquivo CSS */
-@media (min-width: 393px) and ( max-width: 400px) {
+@media ( max-width: 400px) {
 
 
 
